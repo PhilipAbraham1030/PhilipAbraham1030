@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhilipAbraham1030
 - 👀 I’m interested in the intersection of Data Science in Chemical Engineering, Meteorology, Energy and the Environmental arenas.
-- 🌱 I’m currently a candidate for MS in Applied Data Science.
+- 🌱 I have a BS in Chemical Engineering, and a MS in Applied Data Science.
 - 💞️ I’m looking to collaborate on projects related to my interests, as listed above.
 - 📫 You can reach me by email: PhilipAbraham1030@gmail.com
 
